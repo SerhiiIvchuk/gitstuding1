@@ -1,0 +1,7 @@
+.first_h3 {
+	color: green;
+}
+
+.first_h3 > span {
+	color: red;
+}
